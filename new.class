@@ -1,0 +1,19 @@
+public class aluno{
+    
+	string nome;
+	string idade;
+	
+	
+	Public void inserer(){
+	    Aluno aluno = new Aluno ();
+		aluno.setNome ("lucas");
+		aluno.setnome (19);
+	}
+	
+	public void setNome(String nome){
+	   This.nome = nome;
+	}   
+	
+}
+	
+	
